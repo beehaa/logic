@@ -11,4 +11,3 @@ def negabase(number, base):
         sign = -1*sign
         hbase *= base
     return result
-
